@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/piyusdev2006/problem_solving/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/piyusdev2006/problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/piyusdev2006/problem_solving/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
