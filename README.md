@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/piyusdev2006/problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/piyusdev2006/problem_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyusdev2006/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/piyusdev2006/problem_solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyusdev2006/problem_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/piyusdev2006/problem_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
