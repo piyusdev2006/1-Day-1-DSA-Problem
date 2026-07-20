@@ -4,9 +4,9 @@ public:
 
         unordered_set<char> st;
 
-        for(char ch : s) {
+        for (char ch : s) {
 
-            if(st.count(ch))
+            if (st.count(ch))
                 return false;
 
             st.insert(ch);
@@ -16,21 +16,23 @@ public:
     }
 
     int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> freq;
+
+        int left = 0;
         int ans = 0;
 
-        for(int i = 0; i < s.size(); i++) {
+        for (int right = 0; right < s.size(); right++) {
 
-            unordered_set<char> st;
+            freq[s[right]]++;
 
-            for(int j = i; j < s.size(); j++) {
+            while (freq[s[right]] > 1) {
 
-                if(st.count(s[j]))
-                    break;
+                freq[s[left]]--;
 
-                st.insert(s[j]);
-
-                ans = max(ans, j-i+1);
+                left++;
             }
+
+            ans = max(ans, right - left + 1);
         }
 
         return ans;
