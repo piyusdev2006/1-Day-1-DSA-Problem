@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
