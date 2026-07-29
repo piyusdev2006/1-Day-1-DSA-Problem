@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/piyusdev2006/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/piyusdev2006/problem_solving/tree/master/0050-powx-n) |
 ## Counting
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/piyusdev2006/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0092-reverse-linked-list-ii) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
