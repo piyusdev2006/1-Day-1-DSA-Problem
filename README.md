@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/piyusdev2006/problem_solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyusdev2006/problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyusdev2006/problem_solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/piyusdev2006/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/piyusdev2006/problem_solving/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 ## Counting
 |  |
 | ------- |
@@ -165,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/piyusdev2006/problem_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/piyusdev2006/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
