@@ -1,41 +1,58 @@
 class Solution {
 public:
+
     int myAtoi(string s) {
-
-        int index = 0;
-        int n = s.length();
-
-        // Skip leading spaces
-        while (index < n && s[index] == ' ')
-            index++;
-
-        // Empty string after removing spaces
-        if (index == n)
+        // Step 1: Empty string
+        if (s.empty())
             return 0;
 
-        // Determine sign
-        int sign = 1;
-        if (s[index] == '+' || s[index] == '-') {
-            if (s[index] == '-')
-                sign = -1;
-            index++;
-        }
+        // Step 2: Skip leading spaces
+        int i = 0;
 
+        while (i < s.size() && s[i] == ' ')
+            i++;
+
+        // All spaces
+        if (i == s.size())
+            return 0;
+
+        // Step 3: Remove leading spaces
+        s = s.substr(i);
+
+        // Step 4: Find sign
+        int sign = 1;
+
+        if (s[0] == '-')
+            sign = -1;
+
+        // Step 5: Start index
+        i = (s[0] == '+' || s[0] == '-') ? 1 : 0;
+
+        // Step 6: Build number
         long long number = 0;
 
-        // Convert digits
-        while (index < n && isdigit(s[index])) {
+        while (i < s.size()) {
 
-            int digit = s[index] - '0';
+            // Stop at first non-digit
+            if (!isdigit(s[i]))
+                break;
 
-            // Check overflow before updating
-            if (number > (INT_MAX - digit) / 10)
-                return (sign == 1) ? INT_MAX : INT_MIN;
+            int digit = s[i] - '0';
 
+            // Step 7: Check overflow
+            if (sign == 1 && number > (INT_MAX - digit) / 10)
+                return INT_MAX;
+
+            if (sign == -1 && number > (-(long long)INT_MIN - digit) / 10)
+                return INT_MIN;
+
+            // Add digit
             number = number * 10 + digit;
-            index++;
+
+            i++;
         }
 
+        // Step 8: Apply sign
         return sign * number;
     }
 };
