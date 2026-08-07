@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/piyusdev2006/problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piyusdev2006/problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/piyusdev2006/problem_solving/tree/master/0070-climbing-stairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyusdev2006/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/piyusdev2006/problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 ## Combinatorics
 |  |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/piyusdev2006/problem_solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
