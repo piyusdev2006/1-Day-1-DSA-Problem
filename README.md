@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyusdev2006/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/piyusdev2006/problem_solving/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
