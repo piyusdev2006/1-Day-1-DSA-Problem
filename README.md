@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/piyusdev2006/problem_solving/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/piyusdev2006/problem_solving/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/piyusdev2006/problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -228,4 +230,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
