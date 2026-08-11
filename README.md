@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/piyusdev2006/problem_solving/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 ## Divide and Conquer
