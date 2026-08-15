@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
