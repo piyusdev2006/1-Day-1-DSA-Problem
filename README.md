@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyusdev2006/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 ## Matrix
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyusdev2006/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
 | ------- |
