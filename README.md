@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyusdev2006/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 ## Matrix
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
