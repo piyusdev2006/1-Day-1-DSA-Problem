@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/piyusdev2006/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/piyusdev2006/problem_solving/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/0493-reverse-pairs) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/piyusdev2006/problem_solving/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/piyusdev2006/problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/piyusdev2006/problem_solving/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
