@@ -1,63 +1,123 @@
 class Solution {
 public:
-    vector<bool> validSubarrays(vector<int>& nums, int k, vector<vector<int>>& queries) {
+    vector<bool> validSubarrays(
+        vector<int>& nums,
+        int k,
+        vector<vector<int>>& queries
+    ) {
         int n = nums.size();
         int q = queries.size();
-        const int MAXV = 100001;
 
-        // ---------- Mo's ordering ----------
-        int B = max(1, (int)(n / max(1.0, sqrt((double)q))));   // block size
+        // Coordinate compression
+        vector<int> values = nums;
+        sort(values.begin(), values.end());
+        values.erase(unique(values.begin(), values.end()), values.end());
 
-        vector<array<int,3>> qs(q);
-        for (int i = 0; i < q; i++) {
-            qs[i] = { queries[i][0], queries[i][1], i };        // {l, r, id}
+        vector<int> compressed(n);
+
+        for (int i = 0; i < n; i++) {
+            compressed[i] = lower_bound(
+                values.begin(),
+                values.end(),
+                nums[i]
+            ) - values.begin();
         }
 
-        sort(qs.begin(), qs.end(), [&](const array<int,3>& a, const array<int,3>& b) {
-            int ba = a[0] / B, bb = b[0] / B;
-            if (ba != bb) return ba < bb;
-            // odd-even trick: alternate blocks me r ulta chalao -> ~30% faster
-            return (ba & 1) ? (a[1] > b[1]) : (a[1] < b[1]);
+        int blockSize = sqrt(n);
+
+        vector<int> order(q);
+        iota(order.begin(), order.end(), 0);
+
+        // Mo's Algorithm sorting
+        sort(order.begin(), order.end(), [&](int a, int b) {
+            int blockA = queries[a][0] / blockSize;
+            int blockB = queries[b][0] / blockSize;
+
+            if (blockA != blockB) {
+                return blockA < blockB;
+            }
+
+            // Zig-zag ordering for better performance
+            if (blockA & 1) {
+                return queries[a][1] > queries[b][1];
+            }
+
+            return queries[a][1] < queries[b][1];
         });
 
-        // ---------- window state ----------
-        vector<int> cnt(MAXV, 0);
-        int distinct = 0;
-        int oddCount = 0;                                       // kitni values odd baar aayi hain
+        vector<int> freq(values.size(), 0);
+        vector<bool> answer(q);
 
-        // element window me daalo
-        auto add = [&](int v) {
-            if (cnt[v] == 0) distinct++;                        // pehli baar aaya
-            if (cnt[v] & 1) oddCount--;                         // odd tha -> ab even
-            else            oddCount++;                         // even tha -> ab odd
-            cnt[v]++;
+        int distinctCount = 0;
+        int oddCount = 0;
+
+        auto add = [&](int index) {
+            int x = compressed[index];
+
+            if (freq[x] == 0) {
+                distinctCount++;
+            }
+
+            // Remove previous odd contribution
+            if (freq[x] % 2 == 1) {
+                oddCount--;
+            }
+
+            freq[x]++;
+
+            // Add new odd contribution
+            if (freq[x] % 2 == 1) {
+                oddCount++;
+            }
         };
 
-        // element window se hatao
-        auto remove = [&](int v) {
-            if (cnt[v] & 1) oddCount--;                         // odd tha -> ab even
-            else            oddCount++;                         // even tha -> ab odd
-            cnt[v]--;
-            if (cnt[v] == 0) distinct--;                        // poori tarah nikal gaya
+        auto remove = [&](int index) {
+            int x = compressed[index];
+
+            // Remove previous odd contribution
+            if (freq[x] % 2 == 1) {
+                oddCount--;
+            }
+
+            freq[x]--;
+
+            // Add new odd contribution
+            if (freq[x] % 2 == 1) {
+                oddCount++;
+            }
+
+            if (freq[x] == 0) {
+                distinctCount--;
+            }
         };
 
-        // ---------- sweep ----------
-        vector<bool> ans(q, false);
-        int curL = 0, curR = -1;                                // khaali window
+        int left = 0;
+        int right = -1;
 
-        for (int i = 0; i < q; i++) {
-            int l = qs[i][0], r = qs[i][1], id = qs[i][2];
+        for (int queryIndex : order) {
+            int ql = queries[queryIndex][0];
+            int qr = queries[queryIndex][1];
 
-            // IMPORTANT: pehle expand, phir shrink -> warna curL > curR+1 wali
-            // invalid state me negative counts ban jayenge
-            while (curR < r) add(nums[++curR]);
-            while (curL > l) add(nums[--curL]);
-            while (curR > r) remove(nums[curR--]);
-            while (curL < l) remove(nums[curL++]);
+            while (left > ql) {
+                add(--left);
+            }
 
-            ans[id] = (distinct == k) && (oddCount == 0);       // dono exact, koi probability nahi
+            while (right < qr) {
+                add(++right);
+            }
+
+            while (left < ql) {
+                remove(left++);
+            }
+
+            while (right > qr) {
+                remove(right--);
+            }
+
+            answer[queryIndex] =
+                (distinctCount == k && oddCount == 0);
         }
 
-        return ans;
+        return answer;
     }
 };
