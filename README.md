@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/piyusdev2006/problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/piyusdev2006/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/0493-reverse-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1965-employees-with-missing-information](https://github.com/piyusdev2006/problem_solving/tree/master/1965-employees-with-missing-information) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
