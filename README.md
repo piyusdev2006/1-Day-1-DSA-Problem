@@ -344,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/piyusdev2006/problem_solving/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
