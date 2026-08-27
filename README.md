@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/piyusdev2006/problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piyusdev2006/problem_solving/tree/master/0062-unique-paths) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/piyusdev2006/problem_solving/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/piyusdev2006/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/piyusdev2006/problem_solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyusdev2006/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/piyusdev2006/problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
