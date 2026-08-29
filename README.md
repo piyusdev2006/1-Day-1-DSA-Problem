@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyusdev2006/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyusdev2006/problem_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyusdev2006/problem_solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -380,5 +384,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyusdev2006/problem_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
