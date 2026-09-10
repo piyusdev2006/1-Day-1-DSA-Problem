@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/piyusdev2006/problem_solving/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -418,11 +419,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/piyusdev2006/problem_solving/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/piyusdev2006/problem_solving/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
