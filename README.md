@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,8 +419,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
