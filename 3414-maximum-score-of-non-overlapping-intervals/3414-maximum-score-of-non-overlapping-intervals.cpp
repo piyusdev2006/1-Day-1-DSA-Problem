@@ -1,66 +1,65 @@
-struct State {
-    long long weight = 0;
-    vector<int> selected;
-};
+
 
 class Solution {
 public:
-    vector<int> maximumWeight(vector<vector<int>>& input) {
-        int n = input.size();
-       
-        vector<tuple<int, int, long long, int>> intervals;
+    vector<int> maximumWeight(vector<vector<int>>& intervals) {
+
+        int n = intervals.size();
+
+        vector<tuple<int, int, long long, int>> arr;
         for (int i = 0; i < n; ++i) {
-            intervals.emplace_back(input[i][0], input[i][1], (long long)input[i][2], i);
+            arr.emplace_back(intervals[i][0], intervals[i][1],
+                             (long long)intervals[i][2], i);
         }
         
-        sort(intervals.begin(), intervals.end());
-        
+        sort(arr.begin(), arr.end());
+
         vector<int> next_idx(n, n);
         for (int i = 0; i < n; ++i) {
-            int low = i + 1, high = n - 1;
-            int current_end = get<1>(intervals[i]);
-            
+            int low = i + 1, high = n - 1, current_end = get<1>(arr[i]);
             while (low <= high) {
-                int mid = low + (high - low) / 2;
-                if (get<0>(intervals[mid]) > current_end) {
+                int mid = (low + high) / 2;
+                if (get<0>(arr[mid]) > current_end) {
                     next_idx[i] = mid;
-                    high = mid - 1; 
-                } else {
+                    high = mid - 1;
+                } else
                     low = mid + 1;
-                }
             }
         }
-      
-        vector<vector<State>> memo(n + 1, vector<State>(5));
-        
+
+        // Struct to hold dp states
+        struct State {
+            long long weight = 0;
+            vector<int> path;
+        };
+
+        // DP Array: dp[N+1][5]
+        vector<vector<State>> dp(n + 1, vector<State>(5));
+
+        // Bottom-Up logic
         for (int i = n - 1; i >= 0; --i) {
-            for (int quota = 1; quota <= 4; ++quota) {
-                
-                State skip = memo[i + 1][quota];
-                
+            for (int k = 1; k <= 4; ++k) {
+
+                // Not Pick
+                State notPick = dp[i + 1][k];
+
+                // Pick
                 int nxt = next_idx[i];
-                State next_res = memo[nxt][quota - 1];
-                
-                State pick;
-                pick.weight = get<2>(intervals[i]) + next_res.weight;
-                pick.selected = next_res.selected;
-                pick.selected.push_back(get<3>(intervals[i])); 
-                sort(pick.selected.begin(), pick.selected.end());
-                
-                if (pick.weight > skip.weight) {
-                    memo[i][quota] = pick;
-                } else if (pick.weight == skip.weight) {
-                    if (pick.selected < skip.selected) {
-                        memo[i][quota] = pick;
-                    } else {
-                        memo[i][quota] = skip;
-                    }
-                } else {
-                    memo[i][quota] = skip;
-                }
+                State pick = dp[nxt][k - 1];
+                pick.weight += get<2>(arr[i]);
+                pick.path.push_back(get<3>(arr[i]));
+                sort(pick.path.begin(), pick.path.end());
+
+                // Compare & Store
+                if (pick.weight > notPick.weight)
+                    dp[i][k] = pick;
+                else if (notPick.weight > pick.weight)
+                    dp[i][k] = notPick;
+                else
+                    dp[i][k] = (pick.path < notPick.path) ? pick : notPick;
             }
         }
-        
-        return memo[0][4].selected;
+
+        return dp[0][4].path;
     }
 };
