@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-count-the-number-of-infection-sequences](https://github.com/piyusdev2006/problem_solving/tree/master/2954-count-the-number-of-infection-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyusdev2006/problem_solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/piyusdev2006/problem_solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyusdev2006/problem_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/piyusdev2006/problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyusdev2006/problem_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
