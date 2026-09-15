@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/piyusdev2006/problem_solving/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyusdev2006/problem_solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/piyusdev2006/problem_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyusdev2006/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/piyusdev2006/problem_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Longest Increasing Subsequence
