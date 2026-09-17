@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/piyusdev2006/problem_solving/tree/master/2029-stone-game-ix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/piyusdev2006/problem_solving/tree/master/2336-smallest-number-in-infinite-set) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyusdev2006/problem_solving/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/piyusdev2006/problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyusdev2006/problem_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/1137-n-th-tribonacci-number) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/piyusdev2006/problem_solving/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyusdev2006/problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/piyusdev2006/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/piyusdev2006/problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyusdev2006/problem_solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
