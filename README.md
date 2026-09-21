@@ -444,10 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyusdev2006/problem_solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3310-remove-methods-from-project](https://github.com/piyusdev2006/problem_solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
+| [3310-remove-methods-from-project](https://github.com/piyusdev2006/problem_solving/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/piyusdev2006/problem_solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/piyusdev2006/problem_solving/tree/master/0836-rectangle-overlap) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/piyusdev2006/problem_solving/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
