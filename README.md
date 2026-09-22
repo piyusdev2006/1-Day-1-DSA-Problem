@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/piyusdev2006/problem_solving/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/piyusdev2006/problem_solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/piyusdev2006/problem_solving/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
