@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/piyusdev2006/problem_solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/piyusdev2006/problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/piyusdev2006/problem_solving/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/piyusdev2006/problem_solving/tree/master/0836-rectangle-overlap) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyusdev2006/problem_solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/piyusdev2006/problem_solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+| [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
