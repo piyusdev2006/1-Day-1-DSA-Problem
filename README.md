@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyusdev2006/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/piyusdev2006/problem_solving/tree/master/1110-delete-nodes-and-return-forest) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyusdev2006/problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/piyusdev2006/problem_solving/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/piyusdev2006/problem_solving/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/piyusdev2006/problem_solving/tree/master/1029-two-city-scheduling) |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/piyusdev2006/problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0040-combination-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
 |  |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2059-minimum-operations-to-convert-number](https://github.com/piyusdev2006/problem_solving/tree/master/2059-minimum-operations-to-convert-number) |
 | [3310-remove-methods-from-project](https://github.com/piyusdev2006/problem_solving/tree/master/3310-remove-methods-from-project) |
