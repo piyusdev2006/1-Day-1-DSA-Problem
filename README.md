@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyusdev2006/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/piyusdev2006/problem_solving/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2206-divide-array-into-equal-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/2206-divide-array-into-equal-pairs) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyusdev2006/problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyusdev2006/problem_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/piyusdev2006/problem_solving/tree/master/2954-count-the-number-of-infection-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyusdev2006/problem_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/piyusdev2006/problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/piyusdev2006/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0835-image-overlap](https://github.com/piyusdev2006/problem_solving/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyusdev2006/problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/piyusdev2006/problem_solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/piyusdev2006/problem_solving/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyusdev2006/problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/piyusdev2006/problem_solving/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyusdev2006/problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2370-longest-ideal-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyusdev2006/problem_solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyusdev2006/problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
