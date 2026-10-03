@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/piyusdev2006/problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piyusdev2006/problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/piyusdev2006/problem_solving/tree/master/0070-climbing-stairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/piyusdev2006/problem_solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyusdev2006/problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
