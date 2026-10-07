@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/piyusdev2006/problem_solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyusdev2006/problem_solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
 | [2059-minimum-operations-to-convert-number](https://github.com/piyusdev2006/problem_solving/tree/master/2059-minimum-operations-to-convert-number) |
