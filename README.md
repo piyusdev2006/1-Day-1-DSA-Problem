@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
+| [0551-student-attendance-record-i](https://github.com/piyusdev2006/problem_solving/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/piyusdev2006/problem_solving/tree/master/1202-smallest-string-with-swaps) |
