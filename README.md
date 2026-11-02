@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/piyusdev2006/problem_solving/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/piyusdev2006/problem_solving/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyusdev2006/problem_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/piyusdev2006/problem_solving/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/piyusdev2006/problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/piyusdev2006/problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/piyusdev2006/problem_solving/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyusdev2006/problem_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/piyusdev2006/problem_solving/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/piyusdev2006/problem_solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/piyusdev2006/problem_solving/tree/master/0509-fibonacci-number) |
