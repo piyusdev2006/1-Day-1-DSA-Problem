@@ -4,6 +4,7 @@ public:
         int start = 0;
         int n = s.length();
 
+        // here the end represent last charac.. of a word
         for (int end = 0; end <= n; ++end) {
             // Trigger reversal when a space or the end of the string is reached
             if (end == n || s[end] == ' ') {
