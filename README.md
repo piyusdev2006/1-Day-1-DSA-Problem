@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/piyusdev2006/problem_solving/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/piyusdev2006/problem_solving/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/piyusdev2006/problem_solving/tree/master/0287-find-the-duplicate-number) |
+| [0541-reverse-string-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/piyusdev2006/problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyusdev2006/problem_solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/piyusdev2006/problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/piyusdev2006/problem_solving/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/piyusdev2006/problem_solving/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/piyusdev2006/problem_solving/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/piyusdev2006/problem_solving/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/piyusdev2006/problem_solving/tree/master/1096-brace-expansion-ii) |
